@@ -1,0 +1,23 @@
+payload:
+  - DOMAIN-SUFFIX,exlibrisgroup.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,me.com
+  - DOMAIN-SUFFIX,music.apple.com
+  - DOMAIN,wslstorestorage.blob.core.windows.net
+    # GitHub Start
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,dependabot.com
+  - DOMAIN-SUFFIX,git.io
+  - DOMAIN-SUFFIX,github.blog
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.community
+  - DOMAIN-SUFFIX,github.dev
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubhackathon.com
+  - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,jquery.com
+    # GitHub End

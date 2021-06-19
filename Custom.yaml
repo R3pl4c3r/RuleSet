@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN,gdmf.apple.com
+  - DOMAIN,xp.apple.com
+  - DOMAIN,sdapprecv.app.cntvwb.cn
+  - DOMAIN,cws-cctv.conviva.com
+  - DOMAIN-SUFFIX,tr.teams.microsoft.com
+  - DOMAIN,francecentral-prod.notifications.teams.microsoft.com
+  - DOMAIN,presence.teams.microsoft.com
+  - DOMAIN,tlu.dl.delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,maj-soul.com
+  - DOMAIN-SUFFIX,phrasebank.manchester.ac.uk
