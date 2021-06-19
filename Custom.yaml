@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,microsoftstream.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,edgesuite.net
+  - DOMAIN,scholar.google.com
+  - DOMAIN,autopatchhk.yuanshen.com
+  - DOMAIN,apple-events.akamaized.net
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-KEYWORD,outlook
