@@ -4,5 +4,6 @@ payload:
   # - User-Agent,Bilibili*
   - DOMAIN-SUFFIX,biliapi.com
   - DOMAIN-SUFFIX,biliapi.net
-  - DOMAIN,api.bilibili.com
   - DOMAIN-SUFFIX,hdslb.com
+  - DOMAIN,api.bilibili.com
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net
