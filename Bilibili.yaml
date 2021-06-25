@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,biliapi.net
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net
